@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Ge Dongyou's GitHub stats](https://github-readme-stats.vercel.app/api?gedongyou=all-smile&show_icons=true&theme=tokyonight)
+![Ge Dongyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=gedongyou&show_icons=true&theme=tokyonight)
 
 
 
